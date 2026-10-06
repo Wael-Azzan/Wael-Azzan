@@ -18,3 +18,22 @@ My interests span robotics, automation, modeling, simulation, and intelligent en
 - Modeling & Simulation
 - Intelligent Engineering & AI Applications
 - Mechanical Systems & Engineering Design
+
+
+
+## Technical Skills
+
+**Engineering:**  
+Mechatronics | Control Systems | Robotics | Automation | Electronics |Electrical | Embedded Systems
+
+**Modeling & Simulation:**  
+MATLAB | Simulink | Simscape Multibody | System Modeling | Dynamic Simulation
+
+**Design & Engineering Tools:**  
+SolidWorks | ETAP | Engineering Design | System Analysis
+
+**Programming:**  
+MATLAB | C/C++ | Python | Programming for Engineering Applications
+
+**Technical & Research Skills:**  
+System Modeling | Simulation | Control Design | Engineering Analysis | Technical Documentation | Research & Self-Learning
