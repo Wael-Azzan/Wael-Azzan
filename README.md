@@ -108,3 +108,8 @@ MATLAB | Git | GitHub | Markdown
 **Research & Documentation**  
 Zotero | LaTeX | Technical Documentation
 
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/wael-azzan-978529411)
+
