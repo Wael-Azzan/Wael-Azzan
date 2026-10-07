@@ -89,3 +89,22 @@ Projects involving mechanical design, system modeling, simulation, and multidisc
 - UAV Systems & Autonomous Inspection
 - Embedded Systems & Mechatronic Systems
 - Artificial Intelligence for Engineering Applications
+
+
+
+
+
+## Tools & Technologies
+
+**Engineering & Simulation**  
+MATLAB | Simulink | Simscape Multibody | ETAP
+
+**Mechanical Design**  
+SolidWorks | 3D CAD | Engineering Design
+
+**Programming & Development**  
+MATLAB | Git | GitHub | Markdown
+
+**Research & Documentation**  
+Zotero | LaTeX | Technical Documentation
+
