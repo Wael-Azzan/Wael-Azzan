@@ -75,3 +75,17 @@ Projects involving mechanical design, system modeling, simulation, and multidisc
 - Building and documenting engineering projects in MATLAB, Simulink, Simscape Multibody, SolidWorks  .
 - Expanding my knowledge in robotics, automation, embedded systems, intelligent systems, and engineering programming.
 - Building a structured engineering and research portfolio through GitHub, technical documentation, and continuous self-learning.
+
+
+
+
+
+## Research Interests
+
+- Robotics & Autonomous Systems
+- Control Systems & Intelligent Control
+- Modeling, Simulation & System Dynamics
+- Industrial Automation & Intelligent Systems
+- UAV Systems & Autonomous Inspection
+- Embedded Systems & Mechatronic Systems
+- Artificial Intelligence for Engineering Applications
