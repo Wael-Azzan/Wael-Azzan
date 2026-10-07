@@ -63,3 +63,15 @@ A collection of academic and engineering projects involving mechanical systems, 
 
 ###  Engineering Design & Simulation
 Projects involving mechanical design, system modeling, simulation, and multidisciplinary engineering analysis.
+
+
+
+
+
+
+## Current Work
+
+- Developing the modeling, simulation, and control framework for an AI-assisted quadrotor system for industrial inspection.
+- Building and documenting engineering projects in MATLAB, Simulink, Simscape Multibody, SolidWorks  .
+- Expanding my knowledge in robotics, automation, embedded systems, intelligent systems, and engineering programming.
+- Building a structured engineering and research portfolio through GitHub, technical documentation, and continuous self-learning.
