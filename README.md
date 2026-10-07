@@ -88,8 +88,8 @@ Projects involving mechanical design, system modeling, simulation, and multidisc
 - Industrial Automation & Intelligent Systems
 - UAV Systems & Autonomous Inspection
 - Embedded Systems & Mechatronic Systems
-- Artificial Intelligence for Engineering Applications
-
+- Artificial Intelligence for Engineering
+Applications
 
 
 
