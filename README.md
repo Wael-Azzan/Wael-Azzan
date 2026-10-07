@@ -44,22 +44,22 @@ System Modeling | Simulation | Control Design | Engineering Analysis | Technical
 
 ## Featured Projects
 
-### 🚁 AI-Assisted Quadrotor for Industrial Inspection
+###  AI-Assisted Quadrotor for Industrial Inspection
 Final-Year Graduation Project — Ongoing
 
 An integrated mechatronics project focused on developing a quadrotor system for automated industrial inspection and fault detection. My work focuses on system modeling, simulation, control, and integration of the engineering subsystems.
 
 ---
 
-### ⚡ Electrical Power System Analysis
+###  Electrical Power System Analysis
 Engineering project focused on electrical system modeling, analysis, and simulation using engineering analysis tools.
 
 ---
 
-### ⚙️ Mechatronics & Automation Projects
+###  Mechatronics & Automation Projects
 A collection of academic and engineering projects involving mechanical systems, electronics, automation, programming, and control.
 
 ---
 
-### 🛠️ Engineering Design & Simulation
+###  Engineering Design & Simulation
 Projects involving mechanical design, system modeling, simulation, and multidisciplinary engineering analysis.
